@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthIntegrationTesting", "AuthIntegrationTesting\AuthIntegrationTesting.csproj", "{FB140FF9-7BC4-4150-AB09-FE2CD30EDA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integration.Tests", "Integration.Tests\Integration.Tests.csproj", "{93EA68C3-8F0E-46F6-AB42-65861BAA41AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB140FF9-7BC4-4150-AB09-FE2CD30EDA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB140FF9-7BC4-4150-AB09-FE2CD30EDA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB140FF9-7BC4-4150-AB09-FE2CD30EDA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB140FF9-7BC4-4150-AB09-FE2CD30EDA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EA68C3-8F0E-46F6-AB42-65861BAA41AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EA68C3-8F0E-46F6-AB42-65861BAA41AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EA68C3-8F0E-46F6-AB42-65861BAA41AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EA68C3-8F0E-46F6-AB42-65861BAA41AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04FBDC1F-3B4A-42CA-8DAE-2B0ACE51FB59}
+	EndGlobalSection
+EndGlobal
